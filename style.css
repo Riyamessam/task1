@@ -1,0 +1,22 @@
+body { font-family:"lato", sans-serif;
+    height: 20000p }
+
+
+
+.card-img-top:hover {transition:2s; width: 110%;
+
+}
+
+.card-img-top:{transition:2s; width: 110%; }
+
+
+   
+    #main{
+transition: margin-left .5s;
+padding: 16px;
+
+    }
+    span{
+        font-size: 30px;
+        cursor: pointer;
+    }
